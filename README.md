@@ -3,6 +3,6 @@ This project focuses on analyzing customer behavior using data from Kaggle. The 
 
 Objectives
 
-* Perform clustering to segment customers into meaningful groups.
+* Perform clustering to segment customers into clusters.
 * Analyze customer data to identify patterns and trends.
 * Provide actionable insights to improve decision-making and profitability.
