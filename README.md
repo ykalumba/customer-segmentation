@@ -9,7 +9,7 @@ Objectives
 
 
 ## Dataset Description  
-The dataset consists of the following features:  
+The dataset consists of the following features:   
 
 | **Feature**                        | **Description**                                                                 |
 |------------------------------------|---------------------------------------------------------------------------------|
